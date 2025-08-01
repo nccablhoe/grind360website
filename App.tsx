@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from './components/Header';
-import Grind360Home from './components/Grind360Home';
-import About from './components/About';
-import Products from './components/Products';
-import Testimonials from './components/Testimonials';
-import FAQ from './components/FAQ';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Header from './components/Header.tsx';
+import Grind360Home from './components/Grind360Home.tsx';
+import About from './components/About.tsx';
+import Products from './components/Products.tsx';
+import Testimonials from './components/Testimonials.tsx';
+import FAQ from './components/FAQ.tsx';
+import Contact from './components/Contact.tsx';
+import Footer from './components/Footer.tsx';
 
 function App() {
     return (
