@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000; /* jet color */
+  color: #C0C0C0; /* silver color */
+}
